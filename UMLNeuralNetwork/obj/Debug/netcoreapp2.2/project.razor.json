@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/admin/Desktop/VSCode/Neural-Net Modelling/UMLNeuralNetwork/UMLNeuralNetwork.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

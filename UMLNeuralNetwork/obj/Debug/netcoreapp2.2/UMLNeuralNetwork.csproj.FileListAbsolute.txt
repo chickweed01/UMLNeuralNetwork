@@ -1,0 +1,12 @@
+/Users/admin/Desktop/VSCode/Neural-Net Modelling/UMLNeuralNetwork/bin/Debug/netcoreapp2.2/UMLNeuralNetwork.dll.config
+/Users/admin/Desktop/VSCode/Neural-Net Modelling/UMLNeuralNetwork/bin/Debug/netcoreapp2.2/UMLNeuralNetwork.deps.json
+/Users/admin/Desktop/VSCode/Neural-Net Modelling/UMLNeuralNetwork/bin/Debug/netcoreapp2.2/UMLNeuralNetwork.runtimeconfig.json
+/Users/admin/Desktop/VSCode/Neural-Net Modelling/UMLNeuralNetwork/bin/Debug/netcoreapp2.2/UMLNeuralNetwork.runtimeconfig.dev.json
+/Users/admin/Desktop/VSCode/Neural-Net Modelling/UMLNeuralNetwork/bin/Debug/netcoreapp2.2/UMLNeuralNetwork.dll
+/Users/admin/Desktop/VSCode/Neural-Net Modelling/UMLNeuralNetwork/bin/Debug/netcoreapp2.2/UMLNeuralNetwork.pdb
+/Users/admin/Desktop/VSCode/Neural-Net Modelling/UMLNeuralNetwork/obj/Debug/netcoreapp2.2/UMLNeuralNetwork.csprojAssemblyReference.cache
+/Users/admin/Desktop/VSCode/Neural-Net Modelling/UMLNeuralNetwork/obj/Debug/netcoreapp2.2/UMLNeuralNetwork.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/VSCode/Neural-Net Modelling/UMLNeuralNetwork/obj/Debug/netcoreapp2.2/UMLNeuralNetwork.AssemblyInfoInputs.cache
+/Users/admin/Desktop/VSCode/Neural-Net Modelling/UMLNeuralNetwork/obj/Debug/netcoreapp2.2/UMLNeuralNetwork.AssemblyInfo.cs
+/Users/admin/Desktop/VSCode/Neural-Net Modelling/UMLNeuralNetwork/obj/Debug/netcoreapp2.2/UMLNeuralNetwork.dll
+/Users/admin/Desktop/VSCode/Neural-Net Modelling/UMLNeuralNetwork/obj/Debug/netcoreapp2.2/UMLNeuralNetwork.pdb
